@@ -6,14 +6,12 @@
   
   <dependencies>
   
-    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->  
-this is updated line with selenium dependency
-<dependency>
+  <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.7.1</version>
 </dependency>
-    
+  
     <dependency>
     <groupId>io.github.bonigarcia</groupId>
     <artifactId>webdrivermanager</artifactId>
